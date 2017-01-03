@@ -1,0 +1,17 @@
+{
+  "name": "cuddly-palm-tree-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Holland <hi@benholland.me> (https://benholland.me/)",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise-series": "^0.2.2",
+    "execa": "^0.5.0",
+    "hapi": "^16.1.0",
+    "request": "^2.79.0"
+  }
+}
